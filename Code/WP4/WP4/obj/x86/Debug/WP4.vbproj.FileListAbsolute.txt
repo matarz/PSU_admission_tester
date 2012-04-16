@@ -20,3 +20,6 @@ D:\Programming\GitHub\wp4\Code\WP4\WP4\obj\x86\Debug\WP4.Main.resources
 D:\Programming\GitHub\wp4\Code\WP4\WP4\obj\x86\Debug\WP4.Resources.resources
 D:\Programming\GitHub\wp4\Code\WP4\WP4\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Programming\GitHub\wp4\Code\WP4\WP4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\GitHub\PSU_admission_tester\Code\WP4\WP4\obj\x86\Debug\WP4.exe
+D:\Programming\GitHub\PSU_admission_tester\Code\WP4\WP4\obj\x86\Debug\WP4.xml
+D:\Programming\GitHub\PSU_admission_tester\Code\WP4\WP4\obj\x86\Debug\WP4.pdb
